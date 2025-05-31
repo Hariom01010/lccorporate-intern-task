@@ -2,6 +2,8 @@
 
 This is a **Book Management System** backend built using **Node.js**, **Express.js**, and **MongoDB**. It provides a simple RESTful API to perform CRUD operations on a book collection.
 
+Here's a link to the [Postman Collection Export]) for the above operations: [LC Corporate.postman_collection.json](https://github.com/user-attachments/files/20531724/LC.Corporate.postman_collection.json)
+
 ## 🚀 Features
 - Get all books
 - Add a book
